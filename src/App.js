@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-import React, { Component } from 'react';
-import {HashRouter, Route, Link} from 'react-router-dom';
+import logo from "./logo.svg";
+import "./App.css";
+import React, { Component } from "react";
+import { HashRouter, Route, Link } from "react-router-dom";
 
 function App() {
   return (
