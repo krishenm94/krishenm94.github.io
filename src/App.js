@@ -8,6 +8,7 @@ import {
   Contact,
   Articles,
 } from "./components";
+import "./App.css";
 
 function App() {
   return (
